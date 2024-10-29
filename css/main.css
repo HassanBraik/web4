@@ -1,0 +1,32 @@
+.services{
+    text-align: center;
+
+}
+.service{
+    width: 33.33%;
+    float: left;
+
+}
+
+.shopping{
+    color: white;
+    background-color: orange;
+}
+
+.laptop{
+    color: white;
+    background-color: orange;
+}
+
+.security{
+    color: white;
+    background-color: orange;
+
+}
+
+
+.clr{
+
+    clear: both;
+
+}
